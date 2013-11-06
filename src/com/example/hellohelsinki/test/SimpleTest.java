@@ -12,7 +12,7 @@ public class SimpleTest extends TestCase {
      */
     public SimpleTest( String testName )
     {
-        super( testName );
+        super( testName ); //Let's see how this works now!!
     }
 
     /**
