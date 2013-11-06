@@ -6,7 +6,7 @@ import junit.framework.TestSuite;
 
 public class SimpleTest extends TestCase {
 	   /**
-     * Create the test case
+     * Create the test case //Wow seems a good test!
      *
      * @param testName name of the test case
      */
